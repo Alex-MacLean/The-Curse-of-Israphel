@@ -1,0 +1,9 @@
+{
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/the-curse-of-israphel/files",
+    "1.12.2": {
+		"1.1": "*Updated description and credits./n*Updated logo./n+Update Json support."
+    },
+    "promos": {
+        "1.12.2-recommended": "1.1"
+    }
+}
