@@ -2,11 +2,11 @@
   "modid": "israphel",
   "name": "The Curse of Israphel",
   "description": "Adds Israphel from The Shadow of Israphel by the Yogscast to Minecraft. Forked and reskinned from The Legend of Herobrine v0.5.4",
-  "version": "1.0",
+  "version": "1.1",
   "mcversion": "1.12.2",
   "logoFile": "Logo.png",
-  "url": "",
-  "updateJSON": "",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/the-curse-of-israphel",
+  "updateJSON": "https://raw.githubusercontent.com/Alex-MacLean/The-Curse-of-Israphel/main/update.json",
   "authorList": ["Alex MacLean"],
-  "credits": ""
+  "credits": "Joe Hickson,\nAlex MacLean"
 }]
